@@ -3,7 +3,12 @@
 A beautiful, modern, and responsive bottom navigation bar built using **Flutter**.  
 It features a **floating effect**, **custom icons**, **theme toggling**, and **animated transitions** between tabs.
 
-[![Watch Demo](https://youtube.com/shorts/v5epsnDn6BM?si=g7C0LHtQtyO0--Fx)](https://youtube.com/shorts/v5epsnDn6BM?si=g7C0LHtQtyO0--Fx)
+## 🚀 Preview
+
+Check out the UI in action on **YouTube Shorts** 📺  
+👉 [Watch Now](https://youtube.com/shorts/G-VCU6xezfg?feature=share)
+
+https://youtube.com/shorts/G-VCU6xezfg?feature=share
 
 ---
 
@@ -65,3 +70,7 @@ flutter run
 ├── play_screen.dart
 └── categories_screen.dart
 
+Pull requests are welcome! If you find any bugs or want to enhance the design, feel free to open an issue or submit a PR.
+
+If you like this project, feel free to share it and drop a comment on the video!
+Don’t forget to ⭐️ the repo and subscribe on YouTube! 🙌
