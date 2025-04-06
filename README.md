@@ -59,17 +59,6 @@ flutter pub get
 flutter run
 ```
 
-## 📂 Project Structure
-/lib
-├── main.dart
-├── constants.dart
-├── main_screen.dart
-├── home_screen.dart
-├── cart_screen.dart
-├── account_screen.dart
-├── play_screen.dart
-└── categories_screen.dart
-
 Pull requests are welcome! If you find any bugs or want to enhance the design, feel free to open an issue or submit a PR.
 
 If you like this project, feel free to share it and drop a comment on the video!
